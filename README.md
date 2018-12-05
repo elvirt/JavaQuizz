@@ -1,3 +1,3 @@
 # JavaQuizz
-Small tasks
-This repository will hold a bunch of java quizes
+
+This repository will hold a bunch of java quizzes
